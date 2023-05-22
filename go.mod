@@ -8,5 +8,5 @@ require (
 	github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 v5.7.1-0.20230418194707-ca2775cd57a2 // indirect
 )
 replace (
-  github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 => ./wowchemy-cms
+  github.com/wowchemy/wowchemy-hugo-modules/wowchemy-plugin-netlify-cms => ./wowchemy-cms
 )
