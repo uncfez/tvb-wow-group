@@ -157,7 +157,7 @@ collections: # A list of collections the CMS should be able to edit
   - name: post
     label: Inlägg
     label_singular: Inlägg
-    folder: 'content/news'
+    folder: 'content/post'
     path: '{{slug}}/index'
     filter: {field: "cms_exclude"}
     create: true  # Allow users to create new documents in this collection
