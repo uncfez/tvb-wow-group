@@ -10,7 +10,7 @@ sections:
       title: |
         Turf Västerbotten
       image:
-        filename: welcome.jpg
+        filename:
       text: |
         <br>
         
@@ -32,7 +32,7 @@ sections:
       order: desc
       page_type: post
     design:
-      view: card
+      view: showcase
       columns: '1'
   
   - block: markdown
