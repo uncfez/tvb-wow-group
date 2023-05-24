@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night:
-  font: native
+  theme_day: turf_theme
+  theme_night: 
+  font: turf_font
   font_size: L
 
 # SEO
@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'Turf Västerbotten'
+    description: 'Föreningen för turfare i regionen Västerbotten'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Turf Västerbotten. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -53,21 +53,23 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
-  address_format: en-us
+  date_format: '2 January 2006'
+  time_format: '15:04'
+  address_format: fi
 
 # Site features
 
 features:
   syntax_highlighter:
-    enable: false
+    enable: true
     extra_languages:
       - r
       - latex
   math:
     enable: false
   privacy_pack:
+    #   Show a cookie consent message to visitors
+    #   Anonymize IP in Google Analytics (if enabled)
     enable: false
   repository:
     url: 'https://github.com/<username>/<repository>'
@@ -107,10 +109,11 @@ extensions:
     branch: main
     local_backend: false
   academicons:
-    enable: true
+    enable: false
 
 # Citation style
 
 publications:
   date_format: January 2006
   citation_style: apa
+
