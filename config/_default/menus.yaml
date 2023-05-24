@@ -4,21 +4,30 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Tour
-    url: tour
+  - name: Om föreningen
+    url: om-foreningen-och-styrelsen
     weight: 10
-  - name: News
-    url: post
+  - name: Bli medlem
+    url: bli-medlem
     weight: 20
-  - name: People
-    url: people
+  - name: Kalender
+    url: kalender
     weight: 30
-  - name: Events
-    url: event
+  - name: Västerbottens Turf-klassiker
+    url: vasterbottens-turf-klassiker
     weight: 40
-  - name: Publications
-    url: publication
+  - name: Vandringspokalen
+    url: vandringspokal
     weight: 50
-  - name: Contact
-    url: contact
+  - name: Profilkläder
+    url: profilklader
     weight: 60
+  - name: Vad är Turf?
+    url: publication
+    weight: 70
+  - name: Kontakt
+    url: contact
+    weight: 80
+  - name: Turfgame.com
+    url: https://turfgame.com/
+    weight: 90
