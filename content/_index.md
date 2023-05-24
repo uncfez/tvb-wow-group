@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Turf Västerbotten
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        Föreningen för **turfare i Västerbotten**
   
   - block: collection
     content:
@@ -61,7 +60,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{%cta cta_link="./people/" cta_text="Meet the team →"%}}
     design:
       columns: '1'
 ---
