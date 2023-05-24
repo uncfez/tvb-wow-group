@@ -44,7 +44,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: welcome.jpg
           filters:
             brightness: 1
           parallax: false
@@ -55,14 +55,5 @@ sections:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
   
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{< cta cta_text="Do something" cta_link="/" cta_new_tab="false" cta_alt_text="Alternative action" cta_alt_link="/" cta_alt_new_tab="false" >}}
 
-        {{%< cta cta_text="Meet the team →" cta_link="./people/" >%}}
-    design:
-      columns: '1'
 ---
