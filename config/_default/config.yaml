@@ -10,7 +10,7 @@ baseURL: 'https://turfvb.netlify.app/' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: sv
+defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
