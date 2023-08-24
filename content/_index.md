@@ -12,8 +12,6 @@ sections:
       image:
         filename:
       text: |
-        <br>
-        
         Föreningen för **turfare i Västerbotten**
   
   - block: collection
