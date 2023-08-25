@@ -13,17 +13,6 @@ sections:
         filename: 
       text: |
 
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: logo_.png
-
   - block: collection
     content:
       title: Latest News
