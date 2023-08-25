@@ -23,12 +23,6 @@ sections:
       background:
         image: 
           filename: logo_.png
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: small
-          text_color_light: true
 
   - block: collection
     content:
