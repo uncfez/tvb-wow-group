@@ -22,7 +22,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: logo_png
+          filename: logo_.png
           filters:
             brightness: 1
           parallax: true
