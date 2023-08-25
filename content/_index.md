@@ -27,7 +27,7 @@ sections:
             brightness: 1
           parallax: false
           position: center
-          size: 
+          size: small
           text_color_light: true
 
   - block: collection
