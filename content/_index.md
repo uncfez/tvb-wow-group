@@ -8,11 +8,11 @@ sections:
   - block: hero
     content:
       title: |
-        Turf Västerbotten
+        
       image:
-        filename:
+        filename: logo_.png
       text: |
-        Föreningen för **turfare i Västerbotten**
+        
   
   - block: collection
     content:
