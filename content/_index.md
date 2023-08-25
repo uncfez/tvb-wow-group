@@ -25,7 +25,7 @@ sections:
           filename: logo_.png
           filters:
             brightness: 1
-          parallax: true
+          parallax: false
           position: center
           size: 
           text_color_light: true
