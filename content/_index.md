@@ -29,8 +29,6 @@ sections:
           position: center
           size: 
           text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
 
   - block: collection
     content:
