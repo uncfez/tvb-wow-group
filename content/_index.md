@@ -5,32 +5,18 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: cropped-icon.png
-          filters:
-            brightness: 1
-          parallax: true
-          position: center
-          size: 
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-
+  
   - block: hero
     content:
-      title: |
-        
+      title: Turf Västerbotten
       image:
-        filename: 
-      text: |
+        filename: cropped-icon.png
+      cta:
+        label: '**Bli medlem**'
+        url: https://wowchemy.com/templates/
+      cta_alt:
+        label: Vad är turf?
+        url: https://discord.gg/z8wNYzb
 
   - block: collection
     content:
