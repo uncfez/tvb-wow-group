@@ -8,7 +8,7 @@ sections:
   
   - block: hero
     content:
-      title: Turf Västerbotten
+      title: 
       image:
         filename: cropped-icon.png
       cta:
