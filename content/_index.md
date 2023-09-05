@@ -10,7 +10,7 @@ sections:
     content:
       title: 
       image:
-        filename: icon.png
+        filename: cropped-icon.png
       cta:
         label: '**Bli medlem**'
         url: https://wowchemy.com/templates/
