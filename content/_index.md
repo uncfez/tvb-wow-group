@@ -5,12 +5,20 @@ date: 2022-10-24
 type: landing
 
 sections:
-  
+  - block: markdown
+    content:
+      title:
+      subtitle: ''
+      text:
+    design:
+      columns: '1'
+      image: 
+          filename: cropped-icon.png
   - block: hero
     content:
       title: 
       image:
-        filename: cropped-icon.png
+        filename: 
       cta:
         label: '**Bli medlem**'
         url: https://wowchemy.com/templates/
