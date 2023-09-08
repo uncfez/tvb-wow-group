@@ -162,44 +162,44 @@ collections: # A list of collections the CMS should be able to edit
     filter: {field: "cms_exclude"}
     create: true  # Allow users to create new documents in this collection
     fields:  # The fields each document in this collection have
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Subtitle", name: "subtitle", widget: "string", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Publish this page on", name: "date", widget: "datetime"}
-      - {label: "Summary", name: "summary", widget: "markdown", required: false}
-      - label: "Draft"
+      - {label: "Rubrik", name: "title", widget: "string"}
+      - {label: "Underrubrik", name: "subtitle", widget: "string", required: false}
+      - {label: "Innehåll", name: "body", widget: "markdown"}
+      - {label: "Datum för publicering", name: "date", widget: "datetime"}
+      - {label: "Sammanfattning", name: "summary", widget: "markdown", required: false}
+      - label: "Utkast"
         name: "draft"
         widget: "boolean"
         default: false
         required: false
-      - label: "Featured"
+      - label: "Utvald som viktig"
         name: "featured"
         widget: "boolean"
         default: false
         required: false
-      - label: "Authors (Note: Space character only works if there is text after it)"
+      - label: "Författare (Obs! Mellanslag funkar bara om det finns text efter det)"
         name: "authors"
         required: false
         widget: "list"
-      - label: "Tags"
+      - label: "Tagg(-ar)"
         name: "tags"
         required: false
         widget: "list"
-      - label: "Categories"
+      - label: "Kategori(-er)"
         name: "categories"
         required: false
         widget: "list"
-      - label: "Projects"
+      - label: "Projekt"
         name: "projects"
         required: false
         widget: "list"
-      - label: "Featured Image"
+      - label: "Utvald bild"
         name: "image"
         required: false
         widget: object
         collapsed: true
         fields:
-          - label: "Upload an image named `featured.jpg/png`"
+          - label: "Ladda upp en bild som heter `featured.jpg/png`"
             name: "filename"
             widget: "image"
             default: "featured"
@@ -207,10 +207,10 @@ collections: # A list of collections the CMS should be able to edit
             media_library:
               config:
                 multiple: false
-          - {label: Caption, name: caption, widget: string, required: false}
-          - {label: Description for screen readers, name: alt_text, widget: string, required: false}
-          - {label: "Where's the focal point in the image? Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.", name: focal_point, widget: string, required: false, default: "Smart"}
-          - {label: 'Thumbnail Only?', name: preview_only, widget: boolean, default: false, required: false}
+          - {label: Bildtext, name: caption, widget: string, required: false}
+          - {label: Beskrivning för skärmläsare, name: alt_text, widget: string, required: false}
+          - {label: "Var är fokus i bilden? Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.", name: focal_point, widget: string, required: false, default: "Smart"}
+          - {label: 'Bara förhandsgranskning?', name: preview_only, widget: boolean, default: false, required: false}
   - name: projects
     label: Projects
     label_singular: Project

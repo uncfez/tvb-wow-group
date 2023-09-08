@@ -13,7 +13,7 @@ sections:
     design:
       columns: '1'
       background:
-          color: '#FFE806'
+          color: '#FFC215'
   - block: collection
     content:
       title: 
