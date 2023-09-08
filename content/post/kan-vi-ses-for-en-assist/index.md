@@ -19,6 +19,8 @@ categories:
   - arsmote
   - foreningsinformation
 coverImage: FredrikaZone_Photo-WombaWomba-scaled.jpg
+image:
+  caption: "Foto: WombaWomba"
 ---
 
 Föreningen Turf Västerbotten söker engagerade och drivna personer för små och stora uppdrag. Du behöver inte ha erfarenhet av föreningsarbete sedan tidigare men gärna ett starkt intresse för att göra det roligt att turfa i hela Västerbotten.
