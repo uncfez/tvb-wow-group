@@ -7,29 +7,17 @@ type: landing
 sections:
   - block: markdown
     content:
-      title:
-      subtitle: ''
-      text:
+      title: Välkommen till <br>**Turf Västerbotten** 
+      subtitle: 'Föreningen för turfare i regionen Västerbotten'
+      text: 
     design:
       columns: '1'
-      image: 
-          filename: cropped-icon.png
-  - block: hero
-    content:
-      title: 
-      image:
-        filename: 
-      cta:
-        label: '**Bli medlem**'
-        url: https://wowchemy.com/templates/
-      cta_alt:
-        label: Vad är turf?
-        url: https://discord.gg/z8wNYzb
-
+      background:
+          color: '#FFE806'
   - block: collection
     content:
-      title: Latest News
-      subtitle:
+      title: 
+      subtitle: 
       text:
       count: 5
       filters:
