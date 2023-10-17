@@ -22,10 +22,20 @@ En eftermiddag någon dag senare slutade snön vräka ner och då såg jag möjl
 
 Det var kallt och blåsigt så efter en värmande fikapaus spände vi på oss skidorna igen och återvände till bilen efter avklarat uppdrag.
 
+![](gausjosjobron-1.jpg "Foto: Brellir")
+
 Sex veckor senare var det dags för ännnu en skidtur till zonen efter grabbarnas önskemål om en dagsutflykt till Gausjosjö. Den här gången hade vi verkligen vädret på vår sida, men plusgraderna gjorde att skidföret även denna gång var av det tyngre slaget. Men med glada miner kämpade vi oss än en gång fram till hängbron! När skidorna åkt av och vi tagit oss över bron var det gott med fika i solskenet. Efter fikat började grabbarna leka i snön, gjorde långa rutschkanor och susade på galonbyxorna nerför backen.
 
 Solen sken, magiska vyer och glada skratt från lekande barn innebar att tiden bara flög iväg. Efter några underbara timmar var det så dags att packa ihop och bege oss tillbaka till stugan. Vi var alla tre överens om att vi hade haft en helt fantastisk dag. En utflykt som förmodligen inte blivit av vintertid om det inte kommit en zon dit.
 
+![](gausjosjobron-2.jpg "Foto: Brellir")
+![](gausjosjobron-3.jpg "Magiska vyer! Foto: Brellir")
+![](gausjosjobron-4.jpg "Fikande grabbar. Foto: Brellir")
+![](gausjosjobron-5.jpg "Foto: Brellir")
+![](gausjosjobron-6-1.jpg "Galonbyxeåkning! Foto: Brellir")
+![](gausjosjobron-7.jpg "Foto: Brellir")
+
 Jag har vandrat upp till Gausjosjö sameviste ett par gånger innan, både sommar och höst, och kan varmt rekommendera att ta sig tiden att gå hela vägen fram till samevistet. Totala sträckan från vägen till samevistet är 2,5 kilometer och uppskattningsvis ligger zonen en kilometer innan samevistet. Sträckan bjuder på många fantastiska vyer och nu dessutom en zon!
+![](gausjosjobron-8.jpg "Snöfritt! Foto: Brellir")
 
 /Brellir
