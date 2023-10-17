@@ -7,9 +7,7 @@ featured_image:
 categories: 
   - okategoriserade
 tags:
-  - årsmöte
-  - föreningsinformation
-  - turfträff
+  - turfäventyr
   - umeå
 image: 
   caption: 'Foto: Brellir'
