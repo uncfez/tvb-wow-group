@@ -36,6 +36,7 @@ Solen sken, magiska vyer och glada skratt från lekande barn innebar att tiden b
 ![](gausjosjobron-7.jpg "Foto: Brellir")
 
 Jag har vandrat upp till Gausjosjö sameviste ett par gånger innan, både sommar och höst, och kan varmt rekommendera att ta sig tiden att gå hela vägen fram till samevistet. Totala sträckan från vägen till samevistet är 2,5 kilometer och uppskattningsvis ligger zonen en kilometer innan samevistet. Sträckan bjuder på många fantastiska vyer och nu dessutom en zon!
+
 ![](gausjosjobron-8.jpg "Snöfritt! Foto: Brellir")
 
 /Brellir
