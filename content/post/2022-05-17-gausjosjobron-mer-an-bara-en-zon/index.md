@@ -8,9 +8,32 @@ categories:
   - okategoriserade
 tags:
   - turfäventyr
-  - umeå
-image: 
-  caption: 'Foto: Brellir'
+  - hemavan
+gallery_item:
+- album: gausjosjobron
+  image: gausjosjobron-1.jpg
+  caption: '_Foto: Brellir_'
+- album: gausjosjobron
+  image: gausjosjobron-2.jpg
+  caption: '_Foto: Brellir_'
+- album: gausjosjobron
+  image: gausjosjobron-3.jpg
+  caption: 'Magiska vyer! <br> _Foto: Brellir_'
+- album: gausjosjobron
+  image: gausjosjobron-4.jpg
+  caption: 'Fikande grabbar.<br> _Foto: Brellir_'
+- album: gausjosjobron
+  image: gausjosjobron-5.jpg
+  caption: '_Foto: Brellir_'
+- album: gausjosjobron
+  image: gausjosjobron-6-1.jpg
+  caption: 'Galonbyxeåkning! <br> _Foto: Brellir_'
+- album: gausjosjobron
+  image: gausjosjobron-7.jpg
+  caption: '_Foto: Brellir_'
+- album: gausjosjobron
+  image: gausjosjobron-8.jpg
+  caption: 'Snöfritt! <br> _Foto: Brellir_'
 ---
 Nu när sommaren närmar sig med stormsteg och man med lätthet kan gå eller cykla till de flesta zoner utan större hinder kom jag att tänka på en zon som blev mer än bara en vanlig zontagning.
 
@@ -20,7 +43,7 @@ En eftermiddag någon dag senare slutade snön vräka ner och då såg jag möjl
 
 Det var kallt och blåsigt så efter en värmande fikapaus spände vi på oss skidorna igen och återvände till bilen efter avklarat uppdrag.
 
-![](gausjosjobron-2.jpg "_Foto: Brellir_")
+![](gausjosjobron-2.jpg '_Foto: Brellir_')
 
 Sex veckor senare var det dags för ännnu en skidtur till zonen efter grabbarnas önskemål om en dagsutflykt till Gausjosjö. Den här gången hade vi verkligen vädret på vår sida, men plusgraderna gjorde att skidföret även denna gång var av det tyngre slaget. Men med glada miner kämpade vi oss än en gång fram till hängbron! När skidorna åkt av och vi tagit oss över bron var det gott med fika i solskenet. Efter fikat började grabbarna leka i snön, gjorde långa rutschkanor och susade på galonbyxorna nerför backen.
 
