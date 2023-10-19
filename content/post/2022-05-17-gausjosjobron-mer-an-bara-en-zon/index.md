@@ -37,3 +37,5 @@ Jag har vandrat upp till Gausjosjö sameviste ett par gånger innan, både somma
 ![](gausjosjobron-8.jpg "Snöfritt! <br> _Foto: Brellir_")
 
 /Brellir
+
+{{< gallery album="gausjosjobron" >}}
