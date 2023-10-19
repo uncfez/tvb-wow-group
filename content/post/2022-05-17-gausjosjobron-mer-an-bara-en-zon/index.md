@@ -11,12 +11,6 @@ tags:
   - hemavan
 gallery_item:
 - album: gausjosjobron
-  image: gausjosjobron-1.jpg
-  caption: '_Foto: Brellir_'
-- album: gausjosjobron
-  image: gausjosjobron-2.jpg
-  caption: '_Foto: Brellir_'
-- album: gausjosjobron
   image: gausjosjobron-3.jpg
   caption: 'Magiska vyer! <br> _Foto: Brellir_'
 - album: gausjosjobron
@@ -31,9 +25,6 @@ gallery_item:
 - album: gausjosjobron
   image: gausjosjobron-7.jpg
   caption: '_Foto: Brellir_'
-- album: gausjosjobron
-  image: gausjosjobron-8.jpg
-  caption: 'Snöfritt! <br> _Foto: Brellir_'
 ---
 Nu när sommaren närmar sig med stormsteg och man med lätthet kan gå eller cykla till de flesta zoner utan större hinder kom jag att tänka på en zon som blev mer än bara en vanlig zontagning.
 
@@ -49,16 +40,8 @@ Sex veckor senare var det dags för ännnu en skidtur till zonen efter grabbarna
 
 Solen sken, magiska vyer och glada skratt från lekande barn innebar att tiden bara flög iväg. Efter några underbara timmar var det så dags att packa ihop och bege oss tillbaka till stugan. Vi var alla tre överens om att vi hade haft en helt fantastisk dag. En utflykt som förmodligen inte blivit av vintertid om det inte kommit en zon dit.
 
-![](gausjosjobron-3.jpg "Magiska vyer!<br> _Foto: Brellir_")
-![](gausjosjobron-4.jpg "Fikande grabbar.<br> _Foto: Brellir_")
-![](gausjosjobron-5.jpg "_Foto: Brellir_")
-![](gausjosjobron-6-1.jpg "Galonbyxeåkning! <br> _Foto: Brellir_")
-![](gausjosjobron-7.jpg "_Foto: Brellir_")
+{{< gallery album="gausjosjobron" >}}
 
 Jag har vandrat upp till Gausjosjö sameviste ett par gånger innan, både sommar och höst, och kan varmt rekommendera att ta sig tiden att gå hela vägen fram till samevistet. Totala sträckan från vägen till samevistet är 2,5 kilometer och uppskattningsvis ligger zonen en kilometer innan samevistet. Sträckan bjuder på många fantastiska vyer och nu dessutom en zon!
 
-![](gausjosjobron-8.jpg "Snöfritt! <br> _Foto: Brellir_")
-
 /Brellir
-
-{{< gallery album="gausjosjobron" >}}
