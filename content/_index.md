@@ -30,7 +30,7 @@ sections:
       order: desc
       page_type: post
     design:
-      view: showcase
+      view: card
       columns: '1'
   
   - block: markdown
